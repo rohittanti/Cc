@@ -10,5 +10,5 @@ cd Card-Number
 bash Card.sh   
 And Subscribe hax india youtube channel.  
 telegram/Hax India  
-https://t.me/haxindia   
+https://t.me/hax_india
 
